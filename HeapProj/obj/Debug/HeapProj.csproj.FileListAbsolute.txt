@@ -1,0 +1,35 @@
+C:\Users\Usre\Desktop\MCBU Dersler\2018-2019 Bahar\Veri Yapıları\8. Hafta - Heap\uygulama8\9. Heap\HeapProj\HeapProj\bin\Debug\HeapProj.exe.config
+C:\Users\Usre\Desktop\MCBU Dersler\2018-2019 Bahar\Veri Yapıları\8. Hafta - Heap\uygulama8\9. Heap\HeapProj\HeapProj\bin\Debug\HeapProj.exe
+C:\Users\Usre\Desktop\MCBU Dersler\2018-2019 Bahar\Veri Yapıları\8. Hafta - Heap\uygulama8\9. Heap\HeapProj\HeapProj\bin\Debug\HeapProj.pdb
+C:\Users\Usre\Desktop\MCBU Dersler\2018-2019 Bahar\Veri Yapıları\8. Hafta - Heap\uygulama8\9. Heap\HeapProj\HeapProj\obj\Debug\HeapProj.csprojAssemblyReference.cache
+C:\Users\Usre\Desktop\MCBU Dersler\2018-2019 Bahar\Veri Yapıları\8. Hafta - Heap\uygulama8\9. Heap\HeapProj\HeapProj\obj\Debug\HeapProj.csproj.CoreCompileInputs.cache
+C:\Users\Usre\Desktop\MCBU Dersler\2018-2019 Bahar\Veri Yapıları\8. Hafta - Heap\uygulama8\9. Heap\HeapProj\HeapProj\obj\Debug\HeapProj.exe
+C:\Users\Usre\Desktop\MCBU Dersler\2018-2019 Bahar\Veri Yapıları\8. Hafta - Heap\uygulama8\9. Heap\HeapProj\HeapProj\obj\Debug\HeapProj.pdb
+C:\Users\Usre\Desktop\Lectures\Bakircay Dersler\2019-2020 Bahar\Veri Yapilari\8. Hafta - Heap\uygulama8\9. Heap\HeapProj\HeapProj\bin\Debug\HeapProj.exe.config
+C:\Users\Usre\Desktop\Lectures\Bakircay Dersler\2019-2020 Bahar\Veri Yapilari\8. Hafta - Heap\uygulama8\9. Heap\HeapProj\HeapProj\bin\Debug\HeapProj.exe
+C:\Users\Usre\Desktop\Lectures\Bakircay Dersler\2019-2020 Bahar\Veri Yapilari\8. Hafta - Heap\uygulama8\9. Heap\HeapProj\HeapProj\bin\Debug\HeapProj.pdb
+C:\Users\Usre\Desktop\Lectures\Bakircay Dersler\2019-2020 Bahar\Veri Yapilari\8. Hafta - Heap\uygulama8\9. Heap\HeapProj\HeapProj\obj\Debug\HeapProj.csprojAssemblyReference.cache
+C:\Users\Usre\Desktop\Lectures\Bakircay Dersler\2019-2020 Bahar\Veri Yapilari\8. Hafta - Heap\uygulama8\9. Heap\HeapProj\HeapProj\obj\Debug\HeapProj.csproj.CoreCompileInputs.cache
+C:\Users\Usre\Desktop\Lectures\Bakircay Dersler\2019-2020 Bahar\Veri Yapilari\8. Hafta - Heap\uygulama8\9. Heap\HeapProj\HeapProj\obj\Debug\HeapProj.exe
+C:\Users\Usre\Desktop\Lectures\Bakircay Dersler\2019-2020 Bahar\Veri Yapilari\8. Hafta - Heap\uygulama8\9. Heap\HeapProj\HeapProj\obj\Debug\HeapProj.pdb
+C:\Users\Usre\Desktop\Lectures\Bakircay Dersler\2019-2020 Bahar\Veri Yapilari\8. Hafta - Heap\uygulama8\9. Heap - Ogrenci\HeapProj\HeapProj\bin\Debug\HeapProj.exe.config
+C:\Users\Usre\Desktop\Lectures\Bakircay Dersler\2019-2020 Bahar\Veri Yapilari\8. Hafta - Heap\uygulama8\9. Heap - Ogrenci\HeapProj\HeapProj\bin\Debug\HeapProj.exe
+C:\Users\Usre\Desktop\Lectures\Bakircay Dersler\2019-2020 Bahar\Veri Yapilari\8. Hafta - Heap\uygulama8\9. Heap - Ogrenci\HeapProj\HeapProj\bin\Debug\HeapProj.pdb
+C:\Users\Usre\Desktop\Lectures\Bakircay Dersler\2019-2020 Bahar\Veri Yapilari\8. Hafta - Heap\uygulama8\9. Heap - Ogrenci\HeapProj\HeapProj\obj\Debug\HeapProj.csprojAssemblyReference.cache
+C:\Users\Usre\Desktop\Lectures\Bakircay Dersler\2019-2020 Bahar\Veri Yapilari\8. Hafta - Heap\uygulama8\9. Heap - Ogrenci\HeapProj\HeapProj\obj\Debug\HeapProj.csproj.CoreCompileInputs.cache
+C:\Users\Usre\Desktop\Lectures\Bakircay Dersler\2019-2020 Bahar\Veri Yapilari\8. Hafta - Heap\uygulama8\9. Heap - Ogrenci\HeapProj\HeapProj\obj\Debug\HeapProj.exe
+C:\Users\Usre\Desktop\Lectures\Bakircay Dersler\2019-2020 Bahar\Veri Yapilari\8. Hafta - Heap\uygulama8\9. Heap - Ogrenci\HeapProj\HeapProj\obj\Debug\HeapProj.pdb
+C:\Users\Usre\Desktop\Lectures\Bakircay Dersler\2019-2020 Bahar\Veri Yapilari\8. Hafta - Heap\uygulama8\9. Heap - Ogrenci - Kopya\HeapProj\HeapProj\bin\Debug\HeapProj.exe.config
+C:\Users\Usre\Desktop\Lectures\Bakircay Dersler\2019-2020 Bahar\Veri Yapilari\8. Hafta - Heap\uygulama8\9. Heap - Ogrenci - Kopya\HeapProj\HeapProj\bin\Debug\HeapProj.exe
+C:\Users\Usre\Desktop\Lectures\Bakircay Dersler\2019-2020 Bahar\Veri Yapilari\8. Hafta - Heap\uygulama8\9. Heap - Ogrenci - Kopya\HeapProj\HeapProj\bin\Debug\HeapProj.pdb
+C:\Users\Usre\Desktop\Lectures\Bakircay Dersler\2019-2020 Bahar\Veri Yapilari\8. Hafta - Heap\uygulama8\9. Heap - Ogrenci - Kopya\HeapProj\HeapProj\obj\Debug\HeapProj.csprojAssemblyReference.cache
+C:\Users\Usre\Desktop\Lectures\Bakircay Dersler\2019-2020 Bahar\Veri Yapilari\8. Hafta - Heap\uygulama8\9. Heap - Ogrenci - Kopya\HeapProj\HeapProj\obj\Debug\HeapProj.csproj.CoreCompileInputs.cache
+C:\Users\Usre\Desktop\Lectures\Bakircay Dersler\2019-2020 Bahar\Veri Yapilari\8. Hafta - Heap\uygulama8\9. Heap - Ogrenci - Kopya\HeapProj\HeapProj\obj\Debug\HeapProj.exe
+C:\Users\Usre\Desktop\Lectures\Bakircay Dersler\2019-2020 Bahar\Veri Yapilari\8. Hafta - Heap\uygulama8\9. Heap - Ogrenci - Kopya\HeapProj\HeapProj\obj\Debug\HeapProj.pdb
+C:\Users\tevfi\Desktop\veri yapıları\Hafta 10 - Heap\HeapProj\HeapProj\bin\Debug\HeapProj.exe.config
+C:\Users\tevfi\Desktop\veri yapıları\Hafta 10 - Heap\HeapProj\HeapProj\bin\Debug\HeapProj.exe
+C:\Users\tevfi\Desktop\veri yapıları\Hafta 10 - Heap\HeapProj\HeapProj\bin\Debug\HeapProj.pdb
+C:\Users\tevfi\Desktop\veri yapıları\Hafta 10 - Heap\HeapProj\HeapProj\obj\Debug\HeapProj.csprojAssemblyReference.cache
+C:\Users\tevfi\Desktop\veri yapıları\Hafta 10 - Heap\HeapProj\HeapProj\obj\Debug\HeapProj.csproj.CoreCompileInputs.cache
+C:\Users\tevfi\Desktop\veri yapıları\Hafta 10 - Heap\HeapProj\HeapProj\obj\Debug\HeapProj.exe
+C:\Users\tevfi\Desktop\veri yapıları\Hafta 10 - Heap\HeapProj\HeapProj\obj\Debug\HeapProj.pdb
